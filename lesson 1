@@ -1,0 +1,16 @@
+Task 1 
+
+var developer = 'Sergey';
+var name = developer;
+
+alert ( developer);
+
+Task 2 
+
+var askName = prompt('What is your name?');
+
+if (askName ==''){
+	alert ('One more time');
+} else {
+	alert ('welcome');
+}
